@@ -1,0 +1,14 @@
+/* Universal styling */
+
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: "IBM Plex Sans", Times, serif;
+}
+
+/* About Me */
+
+#about img {
+  height: 300px;
+  width: 300px;
+}

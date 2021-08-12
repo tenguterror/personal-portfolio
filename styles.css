@@ -6,6 +6,10 @@ html {
   font-family: "IBM Plex Sans", Times, serif;
 }
 
+.shadow {
+  border-radius: 80px;
+  box-shadow: 10px 10px 5px gray;
+}
 /* About Me */
 
 #about img {

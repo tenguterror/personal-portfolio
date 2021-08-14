@@ -23,3 +23,9 @@ html {
   height: 300px;
   width: 300px;
 }
+
+/* Icon */
+
+.fab, .fas {
+  font-size: 50px;
+}

@@ -55,6 +55,10 @@ nav label.switch {
   margin-right: 25px;
 }
 /* About Me */
+#about section {
+  width: 90%;
+  margin: 0 auto;
+}
 
 #about img {
   height: 300px;

@@ -51,7 +51,8 @@ nav li:hover {
 
 nav label.switch {
   float: right;
-  
+  margin-top: 15px;
+  margin-right: 25px;
 }
 /* About Me */
 

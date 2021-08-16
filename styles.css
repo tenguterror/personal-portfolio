@@ -57,18 +57,26 @@ nav label.switch {
 /* About Me */
 #about {
   width: 90%;
-  margin: 0 auto;
+  margin: 100px auto;
+}
+
+#about h2 {
+  text-align: center;
 }
 
 #about img {
   height: 300px;
   width: 300px;
+  display: inline-block;
+  margin-left: 200px;
+
 }
  #aboutme-container {
   border: 1px solid black;
   border-radius: 30px;
   width: 50%;
   display: inline-block;
+  vertical-align: top;
 }
 
 #about p {

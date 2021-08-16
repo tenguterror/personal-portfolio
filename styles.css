@@ -55,7 +55,7 @@ nav label.switch {
   margin-right: 25px;
 }
 /* About Me */
-#about section {
+#about {
   width: 90%;
   margin: 0 auto;
 }
@@ -64,7 +64,14 @@ nav label.switch {
   height: 300px;
   width: 300px;
 }
+ #aboutme-container {
+  border: 1px solid black;
+  border-radius: 30px;
+}
 
+#about p {
+  margin: 1.25rem 1.25rem;
+}
 /* Goals */
 
 #goals img {

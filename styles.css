@@ -39,7 +39,7 @@ nav li {
 
 nav li a {
   display: block;
-  color: white;
+  color: #EFEFEF;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -103,8 +103,12 @@ footer {
 
 footer h6 {
   display: inline-block;
+  margin: 20px 0px 0px 15px;
+  color: #EFEFEF;
+  font-size: .75rem;
 }
 
 #contact-container {
-  display: inline-block;
+  float: right;
+  margin-right: 15px;
 }

@@ -129,6 +129,24 @@ nav label.switch {
 }
 /* Tech */
 
+#tech {
+  display: flex;
+  flex-direction: column;
+  max-width: 90%;
+  height: 150px;
+  margin: 100px auto;
+  justify-content: center;
+}
+
+#tech h2 {
+  text-align: center;
+}
+#tech-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
 .fab, .fas {
   font-size: 50px;
 }

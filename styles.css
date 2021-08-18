@@ -9,6 +9,13 @@ html {
 body {
   margin: 0;
   padding: 0;
+  background-color: white;
+  color: black;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
 }
 
 .shadow {
@@ -52,7 +59,7 @@ nav li:hover {
   background-color: #111;
 }
 
-nav label.switch {
+nav #button {
   float: right;
   margin-top: 15px;
   margin-right: 25px;

@@ -1,13 +1,11 @@
 let switchMode = document.getElementById('button');
 
-let switchDark = () => {
-  let element = document.body;
-  element.classList.toggle('dark-mode');
+
+let switchDark = (dark, borderDark) => {
+  dark = document.body;
+  borderDark = document.getElementById('aboutme-container');
+  dark.classList.toggle('dark-mode');
+  borderDark.classList.toggle('light-border');
 }
 
 switchMode.onclick = switchDark;
-
-// switchMode.onclick = function switchMode() {
-//   let element = document.body;
-//   element.classList.toggle('dark-mode');
-// }

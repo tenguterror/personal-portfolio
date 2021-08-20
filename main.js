@@ -5,7 +5,7 @@ let switchDark = (dark, borderDark) => {
   dark = document.body;
   borderDark = document.getElementById('aboutme-container');
   dark.classList.toggle('dark-mode');
-  borderDark.classList.toggle('light-border');
+  borderDark.style.border = '1px solid white';
 }
 
 switchMode.onclick = switchDark;

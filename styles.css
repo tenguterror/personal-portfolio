@@ -62,9 +62,19 @@ nav li:hover {
 }
 
 nav #button {
+  background-color: rgb(51, 51, 51);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
   float: right;
-  margin-top: 15px;
-  margin-right: 25px;
+  font-size: 16px;
+}
+
+nav #button:hover {
+  background-color: #111;
+
 }
 /* About Me */
 #about {

@@ -97,7 +97,7 @@ nav #button:hover {
 
 }
  #aboutme-container {
-  border: 1px solid gray;
+  border: 1px solid hsl(0, 0%, 50%);
   width: 50%;
   display: inline-block;
   vertical-align: top;
@@ -128,7 +128,7 @@ nav #button:hover {
 }
 
 #goals-container {
-  border: 1px solid gray;
+  border: 1px solid hsl(0, 0%, 50%);
   border-radius: 30px;
   width: 50%;
   display: inline-block;
@@ -199,4 +199,11 @@ footer h6 {
 #contact-container {
   float: right;
   margin-right: 15px;
+}
+
+/* Contact Footer */
+
+#contact-footer {
+  bottom: 0;
+  position: fixed;
 }

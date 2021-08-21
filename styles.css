@@ -97,7 +97,7 @@ nav #button:hover {
 
 }
  #aboutme-container {
-  border: 1px solid black;
+  border: 1px solid gray;
   width: 50%;
   display: inline-block;
   vertical-align: top;
@@ -128,7 +128,7 @@ nav #button:hover {
 }
 
 #goals-container {
-  border: 1px solid black;
+  border: 1px solid gray;
   border-radius: 30px;
   width: 50%;
   display: inline-block;
@@ -185,6 +185,8 @@ footer {
   margin-top: 20px;
   height: 3.125rem;
   width: 100%;
+  /* position: fixed; */
+  bottom: 0;
 }
 
 footer h6 {

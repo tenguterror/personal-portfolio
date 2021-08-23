@@ -172,6 +172,18 @@ nav #button:hover {
 }
 
 /* Intrests */
+#intrests {
+  /* margin-top: 250px; */
+  margin: 250px auto 100px auto;
+  max-width: 90%;
+}
+
+#intrests-img {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
 
 #intrests-container img {
   height: 150px;

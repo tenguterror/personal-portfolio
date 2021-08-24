@@ -233,6 +233,26 @@ footer h6 {
   margin-right: 15px;
 }
 
+/* Contact Page */
+#contact {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid hsl(0, 0%, 50%);
+  padding: 10px;
+}
+
+#contact h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  text-decoration: underline;
+}
+
+#contact-icons {
+  margin: 10px auto;
+  text-align: center;
+}
 /* Contact Footer */
 
 #contact-footer {

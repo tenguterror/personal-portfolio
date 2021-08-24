@@ -190,6 +190,13 @@ nav #button:hover {
   width: 200px;
 }
 
+#text-container {
+  width: 60%;
+  text-align: center;
+  margin: 100px auto;
+  border: 1px solid hsl(0, 0%, 50%)
+}
+
 /* Footer */
 
 footer {

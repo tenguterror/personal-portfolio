@@ -204,6 +204,9 @@ nav #button:hover {
   border: 1px solid hsl(0, 0%, 50%)
 }
 
+#intrests span {
+  font-weight: 600;
+}
 /* Footer */
 
 footer {

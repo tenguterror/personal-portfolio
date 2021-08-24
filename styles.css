@@ -51,7 +51,7 @@ nav li {
 
 nav li a {
   display: block;
-  color: #EFEFEF;
+  color: #efefef;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -74,7 +74,6 @@ nav #button {
 
 nav #button:hover {
   background-color: #111;
-
 }
 /* About Me */
 #about {
@@ -94,9 +93,8 @@ nav #button:hover {
   width: 300px;
   display: inline-block;
   margin-left: 200px;
-
 }
- #aboutme-container {
+#aboutme-container {
   border: 1px solid hsl(0, 0%, 50%);
   width: 50%;
   display: inline-block;
@@ -124,7 +122,7 @@ nav #button:hover {
 #goals img {
   height: 300px;
   width: 300px;
-  display: inline-block
+  display: inline-block;
 }
 
 #goals-container {
@@ -134,7 +132,6 @@ nav #button:hover {
   display: inline-block;
   vertical-align: top;
   margin-left: 250px;
-  
 }
 
 #goals h4 {
@@ -143,7 +140,7 @@ nav #button:hover {
 
 #goals ul {
   list-style-type: square;
-  margin-inline-start: 40px
+  margin-inline-start: 40px;
 }
 /* Tech */
 
@@ -169,7 +166,8 @@ nav #button:hover {
   margin-top: 25px;
 }
 
-.fab, .fas {
+.fab,
+.fas {
   font-size: 50px;
 }
 
@@ -207,7 +205,7 @@ nav #button:hover {
   width: 60%;
   text-align: left;
   margin: 100px auto;
-  border: 1px solid hsl(0, 0%, 50%)
+  border: 1px solid hsl(0, 0%, 50%);
 }
 
 #intrests span {
@@ -227,8 +225,8 @@ footer {
 footer h6 {
   display: inline-block;
   margin: 20px 0px 0px 15px;
-  color: #EFEFEF;
-  font-size: .75rem;
+  color: #efefef;
+  font-size: 0.75rem;
 }
 
 #contact-container {

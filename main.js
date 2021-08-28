@@ -1,6 +1,6 @@
 let switchMode = document.getElementById("button");
 
-let switchDark = (dark, borderDark) => {
+let switchDark = (dark) => {
   dark = document.body;
   dark.classList.toggle("dark-mode");
 };

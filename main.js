@@ -1,4 +1,4 @@
-let switchMode = document.getElementById("button");
+const switchMode = document.getElementById("button");
 
 const switchDark = (switchMode.onclick = () => {
   let mode = document.getElementById("button").innerHTML;

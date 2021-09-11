@@ -10,6 +10,6 @@ const switchDark = (switchMode.onclick = () => {
     document.getElementById("button").innerHTML = 'Dark Mode';
     body.classList.toggle("dark-mode");
   } else {
-    console.log('ERROR');
+    throw Error('Something went wrong!');
   }
 });

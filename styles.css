@@ -234,6 +234,11 @@ footer h6 {
   margin-right: 15px;
 }
 
+
+footer a {
+  color: whitesmoke;
+}
+
 /* Contact Page */
 #contact {
   position: absolute;

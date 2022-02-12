@@ -239,6 +239,10 @@ footer a {
   color: whitesmoke;
 }
 
+footer a:hover {
+  color: red;
+}
+
 /* Contact Page */
 #contact {
   position: absolute;

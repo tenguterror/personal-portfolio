@@ -3,7 +3,7 @@
 html {
   box-sizing: border-box;
   font-size: 16px;
-  font-family: "IBM Plex Sans", Times, serif;
+  font-family: 'IBM Plex Sans', Times, serif;
 }
 
 body {
@@ -233,7 +233,6 @@ footer h6 {
   float: right;
   margin-right: 15px;
 }
-
 
 footer a {
   color: #f5f5f5;

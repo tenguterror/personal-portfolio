@@ -1,4 +1,7 @@
 /* Universal styling */
+* {
+  scroll-behavior: smooth;
+}
 
 html {
   box-sizing: border-box;

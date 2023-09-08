@@ -16,6 +16,12 @@ body {
   color: black;
 }
 
+header{
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
 .dark-mode {
   background-color: black;
   color: white;
